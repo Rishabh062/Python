@@ -1,4 +1,4 @@
-print("Welcome to number_conversion:1\n")
+print("Convert your logical number:\n")
 print("1.decimal to binary\n2.binary to decimal\n3.decimal to octal\n4.octal to decimal\n5.decimal to hexadecimal\n6.hexadecimal to decimal")
 n=int(input())
 if(n==1):
